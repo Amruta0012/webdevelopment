@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+.recipe-card {
+    max-width: 600px;
+    margin: 10px;
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+.recipe-image {
+    margin: 5px;
+    max-width: 80%;
+    border-radius: 5px;
+}
+
+.recipe-info {
+    margin-top: 20px;
+}
+.instruction-list {
+    list-style-type: none;
+    padding: 0;
+}
+.ingredient-list li,
+.instruction-list li {
+    margin-bottom: 10px;
+}
+.nutritional-table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+.nutritional-table{
+    padding: 10px;
+    text-align: center;
+}
+
+.nutritional-table{
+    background-color: white;
+    border: solid 1px;
+    margin: 5px;
+}
